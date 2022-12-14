@@ -34,6 +34,13 @@ TF-IDF and count vectorizer both are methods for converting text data into vecto
 
 ## References
 
+https://docs.streamlit.io/library/get-started
+
+https://towardsdatascience.com/build-a-song-recommendation-system-using-streamlit-and-deploy-on-heroku-375a57ce5e85
+
+https://www.quora.com/What-is-the-difference-between-TfidfVectorizer-and-CountVectorizer-1
+
+https://www.datacamp.com/tutorial/recommender-systems-python
 
 
 
